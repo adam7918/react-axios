@@ -1,3 +1,5 @@
+A simple react app which shows number of public repos of a github account. HTTP calls are made using Axios.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
